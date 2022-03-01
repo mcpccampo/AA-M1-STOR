@@ -1,4 +1,4 @@
-const lib = require('../modules/lib');
+const lib = require('../../modules/lib');
 // ----------------------- //
 lib.clear();
 

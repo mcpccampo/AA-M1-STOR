@@ -1,4 +1,3 @@
-// your code here
 function uncompress(str) {
   let string = '';
   let strArray = str.split('');
